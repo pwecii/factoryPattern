@@ -62,7 +62,8 @@ public class Clinic {
                     break;
 
                 default:
-                    System.out.println("Invalid choice. Please try again.");
+                    System.out.println("Invalid input! Please enter a number between 1 and 3.");
+                    System.out.println();
             }
         }
 
